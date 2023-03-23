@@ -22,7 +22,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -53,7 +52,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-<!-- > Describe between 1-3 key features of the application. -->
 
 The only feature of this project is to test the code of the project with linters using command lines, or through github actions.
 
@@ -65,9 +63,7 @@ The only feature of this project is to test the code of the project with linters
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- > Add a link to your deployed project. -->
-
-- [Live Demo Link](https://google.com)
+Coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,7 +71,6 @@ The only feature of this project is to test the code of the project with linters
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
 
@@ -105,14 +100,6 @@ Install this project with:
 
 - No installation required
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
@@ -120,13 +107,6 @@ To run the project, execute the following command:
 
 - No command is required
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
@@ -149,13 +129,7 @@ You can deploy this project using:
 
 -N/A
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +137,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-<!-- > Mention all of the collaborators of this project. -->
 
 👤 **Carl Jean**
 
@@ -200,8 +173,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-<!-- > Write a message to encourage readers to support your project -->
-
 If you like this project don't hesitate to give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -210,11 +181,8 @@ If you like this project don't hesitate to give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
 
 I would like to thank the microverse team for creating this beautiful template for the project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -223,7 +191,7 @@ I would like to thank the microverse team for creating this beautiful template f
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
